@@ -1,0 +1,12 @@
+name="dhanu"
+age=19
+clg="gcem"
+fee=190000.5000000000
+course="python"
+marks=[90,80,70,60,50]
+print(type(name))
+print(type(age))
+print(type(clg))
+print(type(fee))
+print(type(course))
+print(type(marks))
